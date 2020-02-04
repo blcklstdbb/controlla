@@ -1,2 +1,2 @@
 # controlla
-Parses macOS installer files for malicious or suspicious IOCs
+Parses macOS installer files for malicious or suspicious IOCs.
